@@ -1,6 +1,6 @@
 # J'importe les fonctions dont j'ai besoin
 from utils import get_personnages, get_monstre
-from game import combat
+from jeu import combat
 
 
 # Je crée une fonction qui affiche le menu et renvoie le choix du joueur
